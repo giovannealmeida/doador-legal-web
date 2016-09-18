@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Giovanne/Documents/NetBeansProjects/DoadorLegal-web/src/java/br/com/versalius/beans/UserBean.java</file>
+            <file>file:/C:/Users/Giovanne/Documents/NetBeansProjects/DoadorLegal-web/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Giovanne/Documents/NetBeansProjects/DoadorLegal-web/src/java/br/com/versalius/models/UserModel.java</file>
+            <file>file:/C:/Users/Giovanne/Documents/NetBeansProjects/DoadorLegal-web/src/java/br/com/versalius/dao/DAO.java</file>
+            <file>file:/C:/Users/Giovanne/Documents/NetBeansProjects/DoadorLegal-web/web/index.xhtml</file>
+        </group>
     </open-files>
 </project-private>
